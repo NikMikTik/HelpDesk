@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_121">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita.Jain/Desktop/HibernateJars/hibernatelib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita.Jain/Desktop/HibernateJars/hibernatelib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita.Jain/Desktop/HibernateJars/hibernatelib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita.Jain/Desktop/HibernateJars/hibernatelib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita.Jain/Desktop/HibernateJars/hibernatelib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita.Jain/Desktop/HibernateJars/hibernatelib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita.Jain/Desktop/HibernateJars/hibernatelib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita.Jain/Desktop/HibernateJars/hibernatelib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita.Jain/Desktop/HibernateJars/hibernatelib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0/apache-tomcat-7.0/lib/websocket-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
